@@ -1,0 +1,12 @@
+<resources>
+    <!-- Do not translate next line -->
+    <string name="app_name">CoreElite</string>
+    <!-- \n stands for new line symbol. Program treat \n as a line break.
+    You can divide your strings into lines of reasonable length yourself or leave that work for me. -->
+    <string name="ready">Touch the screen \nto start a new game!</string>
+    <string name="paused">Paused.\nTouch the screen\nto resume.</string>
+    <string name="game_over">Game over!\nTouch the screen\nto start a new game.</string>
+    <string name="your_time">Your time:</string>
+    <!-- Don't forget to specify the language! You can do it in the letter or in this comment. -->
+    <string name="banner_ad_unit_id">ca-app-pub-5735264719731428/1962009795</string>
+</resources>
